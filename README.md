@@ -1,0 +1,14 @@
+# Primark web scraped data 
+
+## About the website
+
+**Primark** is a renowned international retailer that offers the latest fashion, beauty, and homeware at the best value on the high street. The history of the company dates back to 1969 when the very first store was launched in Dublin, Ireland, under the name Penneys. However, due to the presence of another brand with a similar name in Europe, the company decided to rebrand all of its European stores as Primark in 1973. The brand is owned by Associated British Foods and is not a public company; hence, theres no stock market symbol, IPO date or market cap at IPO. More about Primark, including its history and business model, can be found on the Primark page on [Wikipedia](https://en.wikipedia.org/wiki/Primark) and [Bloomberg](https://www.bloomberg.com/profile/company/853681Z:LN).
+
+Some notable competitors of **Primark** include the globally-established Swedish fashion retailer **H&M**, the British multinational retailer **Marks & Spencer**, and **Zara**, a Spanish apparel retailer that is part of the Inditex Group. H&M embarks upon a unique business model that emphasizes the importance of sustainability and fashion. The [H&M Wikipedia page](https://en.wikipedia.org/wiki/H%26M) and [H&M Bloomberg page](https://www.bloomberg.com/quote/HMB:SS) can provide more details. Marks & Spencer, on the other hand, operates a hybrid model with food and clothing retail, which is a bit different from conventional retailers. More about them can be found on [Marks & Spencer Wikipedia page](https://en.wikipedia.org/wiki/Marks_%26_Spencer) and [Marks & Spencer Bloomberg page](https://www.bloomberg.com/quote/MKS:LN). Lastly, Zara, famous for its fast-fashion concept, offers the latest fashion trends quicky to market. More details are available on [Zaras Wikipedia page](https://en.wikipedia.org/wiki/Zara_(retailer)) and [Zaras Bloomberg page](https://www.bloomberg.com/quote/ITX:SM).
+
+Web scraped data from the **Primark** website can provide vital insights for different use cases, particularly when it comes to price analysis and the evaluation of promotional activities. For frequent shoppers, having access to this data helps them compare prices, allowing them to make more informed purchasing decisions. On the other hand, this data becomes critical for market research companies, as it allows them to compare **Primarks** pricing strategies with those of its competitors. By understanding how Primark prices its products and when it offers discounts, businesses can gain valuable competitive intelligence, which can guide their own pricing and promotional strategies. Web scraped data, therefore, becomes a key tool for driving superior business decision-making strategy.
+
+
+## Link to **dataset**
+
+[Primark dataset](https://www.databoutique.com/buy-data-list-subset/Primark%20web%20scraped%20data/r/recUtMSMAtjYQNPvl)
